@@ -110,7 +110,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "琅環书生·ChatGPT",
+        "title": "琅環书生ChatGPT",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"

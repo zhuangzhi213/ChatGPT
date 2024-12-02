@@ -541,7 +541,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>琅環书生·ChatGPT</div>
+            <div className={styles["main-title"]}>琅環书生ChatGPT</div>
             <div className={styles["sub-title"]}>
               github.com/ChatGPTNextWeb/ChatGPT-Next-Web
             </div>
